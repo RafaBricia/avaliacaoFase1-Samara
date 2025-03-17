@@ -1,0 +1,6 @@
+Aluna: Rafaela Brícia Ayres Nunes
+Competência: integrar interfaces e serviços web
+Módulo: 08
+
+Link para vídeo no youtube: https://youtu.be/nXPaxavFYiw
+Link para o repositório - Github: https://github.com/RafaBricia/avaliacaoFase1-Samara
